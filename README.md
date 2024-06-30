@@ -5,4 +5,4 @@ DHP22 <-> wifi <-> Web server http
 в поисковике WEB server DHT22 без АРДУИНО
 
 
-All for esoressif v3.0  or esp-ide v5.22
+All for espressif v3.0  or esp-ide v5.22
